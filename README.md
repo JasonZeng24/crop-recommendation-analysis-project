@@ -60,12 +60,6 @@ jupyter notebook
 | 2nd Feature | Humidity (0.211) |
 | Classes | 22 crop types |
 
-## 🔗 Related Work
-
-This project is part of my preparation for agricultural ML research, complementing my published work on multi-modal ML systems:
-- **CAPS Framework** — arXiv:2507.15862, ISPML 2025
-- [GitHub Repository](https://github.com/JasonZeng24/Quantifying-Holistic-Review-A-Multi-Modal-Approach-to-College-Admissions-Prediction)
-
 ## 👤 Author
 
 **Jason Zeng (Jun-Wei Zeng)**
